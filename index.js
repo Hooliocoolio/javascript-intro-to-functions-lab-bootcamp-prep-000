@@ -7,6 +7,6 @@ function whisper(HELLO){
 }
 
 function(){
-  console.log(shout(HELLO))
+  console.log("HELLO")
 
 }
