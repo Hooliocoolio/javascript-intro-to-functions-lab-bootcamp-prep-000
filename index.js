@@ -2,6 +2,6 @@ function shout(hello) {
   return "HELLO"
 }
 
-function whisper(shout()){
+function whisper(HELLO){
   return 'hello'
 }
