@@ -7,5 +7,5 @@ function whisper(HELLO){
 }
 
 function logShout('hello'){
-  console.log(spy('HELLO'))
+  console.log(toUpperCase('HELLO'))
 }
