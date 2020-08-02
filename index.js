@@ -1,3 +1,3 @@
-function shout(hello) {
-  console.log("HELLO")
+function shout('hello') {
+  return "HELLO"
 }
