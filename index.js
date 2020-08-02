@@ -6,6 +6,6 @@ function whisper(HELLO){
   return 'hello'
 }
 
-function logShout("string"){
+function logShout(string){
   console.log("STRING")
 }
