@@ -5,3 +5,8 @@ function shout(hello) {
 function whisper(HELLO){
   return 'hello'
 }
+
+function(){
+  console.log(shout(HELLO))
+
+}
